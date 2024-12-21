@@ -1,0 +1,4 @@
+Mansur Tasbolat 18 true businessman 10000000.0
+Shyngys Abdullaev 19 true SoftwareEngineer 2500000.0
+Nurgeldi Adilov 18 true Entertainer 3000000.0
+Ali Baimen 19 true BossMolokosos 500000000.0
